@@ -1,0 +1,5 @@
+<resources>
+    <item name="btnAdd" type="id"/>
+    <item name="editTextSongName" type="id"/>
+    <item name="txtPlaylist" type="id"/>
+</resources>
